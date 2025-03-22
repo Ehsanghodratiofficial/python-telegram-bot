@@ -1,4 +1,4 @@
-..
+Ehsan Ghodrati..
     Make sure to apply any changes to this file to README_RAW.rst as well!
 
 .. image:: https://raw.githubusercontent.com/python-telegram-bot/logos/master/logo-text/png/ptb-logo-text_768.png
